@@ -9,7 +9,7 @@ Laboratorio programacion por pares
 
 Se debe crear un proyecto donde se muestre con ejemplos las características del paradigma orientado a objetos
 Características:
- Abstracción
- Encapsulamiento
- Herencia
- Polimorfismo
+ - Abstracción
+ - Encapsulamiento
+ - Herencia
+ - Polimorfismo
